@@ -1,0 +1,12 @@
+Neste projeto, aplicamos com sucesso um modelo de regressão linear múltipla para prever preços de carros.
+
+Os principais pontos abordados:
+
+Importação de bibliotecas
+Leitura do conjunto de dados
+Análise exploratória
+Pré-processamento
+Separação dos dados
+Definição e treinamento do modelo
+Avaliação da performance
+Com um R2 de 0,89 e MAE de 0,85, o modelo obteve um bom desempenho, podendo ser utilizado na prática para estimar preços de carros com base nas suas características.
