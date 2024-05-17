@@ -10,3 +10,20 @@ Separação dos dados
 Definição e treinamento do modelo
 Avaliação da performance
 Com um R2 de 0,89 e MAE de 0,85, o modelo obteve um bom desempenho, podendo ser utilizado na prática para estimar preços de carros com base nas suas características.
+
+______________________________________________________________________________________________________________________________________________________________________
+
+
+
+In this project, we successfully applied a multiple linear regression model to predict car prices.
+
+The main points covered were:
+
+Importing libraries
+Reading the dataset
+Exploratory analysis
+Preprocessing
+Data splitting
+Model definition and training
+Performance evaluation
+With an R² of 0.89 and MAE of 0.85, the model performed well and can be practically used to estimate car prices based on their characteristics.
